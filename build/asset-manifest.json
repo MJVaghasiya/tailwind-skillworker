@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1b8207e1.css",
+    "main.js": "/static/js/main.c3e5abbb.js",
+    "static/js/453.eb570f4f.chunk.js": "/static/js/453.eb570f4f.chunk.js",
+    "static/media/contact-banner.jpg": "/static/media/contact-banner.545cf49b80e228397a53.jpg",
+    "static/media/Happy-Clients.webp": "/static/media/Happy-Clients.27aa99b2f3cc73e15ee2.webp",
+    "static/media/Icon PNG.png": "/static/media/Icon PNG.a0b2c302209f8cf50987.png",
+    "static/media/Capture-removebg-preview.png": "/static/media/Capture-removebg-preview.04e610479b86137ac3d8.png",
+    "static/media/our-services.jpeg": "/static/media/our-services.85834f81df55a75daa2a.jpeg",
+    "static/media/personal-support-worker.webp": "/static/media/personal-support-worker.e33c81b5f97c6a57bc40.webp",
+    "static/media/Shop-service.webp": "/static/media/Shop-service.9bb2c102741c4d9cef83.webp",
+    "static/media/Logo PNG.webp": "/static/media/Logo PNG.35e1ff41c941fb9a0ee1.webp",
+    "static/media/chef.webp": "/static/media/chef.77c154338f346c879f07.webp",
+    "static/media/Care-at-home.webp": "/static/media/Care-at-home.6b4fe8e6081c16d26a54.webp",
+    "static/media/about-us-banner.webp": "/static/media/about-us-banner.8ccb2f05210ad040d347.webp",
+    "static/media/About1.webp": "/static/media/About1.25870427d84985531fec.webp",
+    "static/media/hospital-service.webp": "/static/media/hospital-service.d2368367bea3565429bb.webp",
+    "static/media/domestic-worker.webp": "/static/media/domestic-worker.09988b375f307c2e0569.webp",
+    "static/media/hero-banner.webp": "/static/media/hero-banner.6e703fe9e875a3bb89f2.webp",
+    "static/media/nurse1.webp": "/static/media/nurse1.d4f1f809efc8c7233f05.webp",
+    "static/media/clining.webp": "/static/media/clining.4b46aff18adaaf719dfd.webp",
+    "static/media/About2.webp": "/static/media/About2.1659bf32a71ba990aa2a.webp",
+    "static/media/delievery-driver.webp": "/static/media/delievery-driver.adfcb2b99fd6c686e499.webp",
+    "index.html": "/index.html",
+    "main.1b8207e1.css.map": "/static/css/main.1b8207e1.css.map",
+    "main.c3e5abbb.js.map": "/static/js/main.c3e5abbb.js.map",
+    "453.eb570f4f.chunk.js.map": "/static/js/453.eb570f4f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b8207e1.css",
+    "static/js/main.c3e5abbb.js"
+  ]
+}
